@@ -1,6 +1,6 @@
 
 
-# Gītagovinda link target
+## Gitagovinda, ed. Lassen, 1836 
 
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/153
 
@@ -13,6 +13,6 @@ PDF title: Jayadeva: Gītagovinda, ed. Christian Lassen, 1836
 
 
 ## app1
-  app1 provides access to pages based on (adhyāya, verse)
-* https://sanskrit-lexicon-scans.github.io/gitagov/app1/?N,N
-*Example: https://sanskrit-lexicon-scans.github.io/gitagov/?app1/1,2
+Provides access to pages based on (adhyāya 1-12, verse)
+  
+Example: https://sanskrit-lexicon-scans.github.io/gitagov/app1/?1,2
